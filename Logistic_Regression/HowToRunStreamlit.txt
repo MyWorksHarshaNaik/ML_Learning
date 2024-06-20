@@ -1,0 +1,3 @@
+# To run this use this cmd
+
+streamlit run streamli_viz_tool.py
